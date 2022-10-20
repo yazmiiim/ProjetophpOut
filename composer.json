@@ -1,0 +1,14 @@
+{
+    "name": "admin/atvpw-ii",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gustavo"
+        }
+    ],
+    "require": {}
+}
